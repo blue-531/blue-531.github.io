@@ -16,7 +16,7 @@ I have tackled a range of tasks such as semantic segmentation, data completion, 
 My expertise spans various data modalities, including image, point cloud, and event data.
 <br/>
 
-My CV can be found [here.](https://sangrockeg.github.io/assets/hyeokjun_kweon_cv_240801.pdf)
+My CV can be found [here.](https://sangrockeg.github.io/assets/hyunkurl_jang_cv_241004.pdf)
 <br/>
 
 
@@ -37,7 +37,7 @@ Publications
 </div>
 <br/>
 <div style="display: flex; align-items: center;">
-    <img src='/images/qual_kitti.png' alt='ECCV 2024' class="publication-image">
+    <img src='/images/GMT.png' alt='ECCV 2024' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
@@ -49,7 +49,7 @@ Publications
 </div>
 <br/>
 <div style="display: flex; align-items: center;">
-    <img src='/images/qual_kitti.png' alt='CVPR 2023' class="publication-image">
+    <img src='/images/event-vfi.png' alt='CVPR 2023' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
