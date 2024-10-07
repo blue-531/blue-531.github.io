@@ -21,7 +21,7 @@ repository               : "blue-531/blue-531.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "images/profile.jpeg"
   name             : "Hyun-Kurl Jang"
   pronouns         : # example: "she/her"  
   bio              : "2th year PhD candidate @ KAIST \n jhg0001@kaist.ac.kr"
