@@ -11,9 +11,7 @@ I am a 2nd year Ph.D. student advised by Prof. [Kuk-Jin Yoon](https://scholar.go
 I am actively seeking for a research intern position.
 <br/>
 
-I am dedicated to advancing the understanding and prediction of environmental data through innovative approaches that utilize minimal or weak annotations, significantly reducing the annotation burden.
-I have tackled a range of tasks such as semantic segmentation, data completion, and representation learning, consistently pushing the boundaries of these fields.
-My expertise spans various data modalities, including image, point cloud, and event data.
+I am currently pursuing research focused on advancing 3D perception for autonomous driving, with an emphasis on developing models that are generalizable and robust across various domains. I am also particularly interested in utilizing diverse data modalities such as LiDAR, cameras, and event cameras.
 <br/>
 
 My CV can be found [here.](https://sangrockeg.github.io/assets/hyunkurl_jang_cv_241004.pdf)
