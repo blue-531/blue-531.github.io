@@ -127,8 +127,6 @@ Publications
 
 Selected Honors and Awards
 ======
-- 2023 / Bronze prize in Best Paper Awards during IPIU 2023, 35th Workshop on Image Processing and Image Understanding
-<br/>
 - 2023 / Gold prize in Best Paper Awards during IPIU 2023, 35th Workshop on Image Processing and Image Understanding
 <br/>
 
