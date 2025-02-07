@@ -30,7 +30,7 @@ Publications
         TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight<br>
         <b>H. Jang*</b>, J. Kim*, H. Kweon*, K. Yoon<br>
         <b>NeurIPS 2024</b><br>
-        <a href="TBD">[paper]</a>
+        <a href="https://arxiv.org/pdf/2410.15674">[paper]</a> <a href="https://github.com/blue-531/TALoS">[paper]</a>
     </div>
 </div>
 <br/>
