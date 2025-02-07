@@ -30,7 +30,7 @@ Publications
         TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight<br>
         <b>H. Jang*</b>, J. Kim*, H. Kweon*, K. Yoon<br>
         <b>NeurIPS 2024</b><br>
-        <a href="https://arxiv.org/pdf/2410.15674">[paper]</a> <a href="https://github.com/blue-531/TALoS">[paper]</a>
+        <a href="https://arxiv.org/pdf/2410.15674">[paper]</a> <a href="https://github.com/blue-531/TALoS">[code]</a>
     </div>
 </div>
 <br/>
@@ -54,7 +54,7 @@ Publications
         Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields<br>
         T. Kim, Y. Chae, <b>H. Jang</b>, K. Yoon<br>
         <b>CVPR 2023 (2.5% of submissions)</b><br>
-        <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Event-Based_Video_Frame_Interpolation_With_Cross-Modal_Asymmetric_Bidirectional_Motion_Fields_CVPR_2023_paper.pdf">[paper]</a>
+        <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Event-Based_Video_Frame_Interpolation_With_Cross-Modal_Asymmetric_Bidirectional_Motion_Fields_CVPR_2023_paper.pdf">[paper]</a> <a href="https://github.com/intelpro/CBMNet">[code]</a>
     </div>
 </div>
 <br/>
