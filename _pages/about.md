@@ -29,7 +29,7 @@ Publications
     <div class="publication-info">
         <a href="https://paperswithcode.com/sota/3d-semantic-scene-completion-on-semantickitti?p=talos-enhancing-semantic-scene-completion-via">
             <img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/talos-enhancing-semantic-scene-completion-via/3d-semantic-scene-completion-on-semantickitti" alt="PWC">
-        </a>
+        </a><br>
         TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight<br>
         <b>H. Jang*</b>, J. Kim*, H. Kweon*, K. Yoon<br>
         <b>NeurIPS 2024</b><br>
