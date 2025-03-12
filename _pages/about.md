@@ -22,7 +22,6 @@ My CV can be found [here.](https://blue-531.github.io/assets/Hyun_Kurl_Jang_Curr
 
 Publications
 ======
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/talos-enhancing-semantic-scene-completion-via/3d-semantic-scene-completion-on-semantickitti)](https://paperswithcode.com/sota/3d-semantic-scene-completion-on-semantickitti?p=talos-enhancing-semantic-scene-completion-via)
 <div style="display: flex; align-items: center;">
     <img src='/images/qual_kitti.png' alt='NeurIPS 2024' class="publication-image">
 
