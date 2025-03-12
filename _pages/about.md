@@ -32,6 +32,8 @@ Publications
         <b>NeurIPS 2024</b><br>
         <a href="https://arxiv.org/pdf/2410.15674">[paper]</a> <a href="https://github.com/blue-531/TALoS">[code]</a>
     </div>
+    [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/talos-enhancing-semantic-scene-completion-via/3d-semantic-scene-completion-on-semantickitti)](https://paperswithcode.com/sota/3d-semantic-scene-completion-on-semantickitti?p=talos-enhancing-semantic-scene-completion-via)<br/>
+
 </div>
 <br/>
 <div style="display: flex; align-items: center;">
