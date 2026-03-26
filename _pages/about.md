@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 I am a 3rd year Ph.D. student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST). 
-I am actively seeking for a research intern position.
 <br/>
 
 I am currently pursuing research focused on advancing 3D perception for autonomous driving, with an emphasis on developing models that are generalizable and robust across various domains. I am also particularly interested in utilizing diverse data modalities such as LiDAR, cameras, and event cameras.
