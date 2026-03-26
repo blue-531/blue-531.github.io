@@ -23,6 +23,21 @@ My CV can be found [here.](https://blue-531.github.io/assets/Hyun_Kurl_Jang_Curr
 Publications
 ======
 <div style="display: flex; align-items: center;">
+    <img src='/images/geoID_concept' alt='CVPR 2026' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Test-Time Training for LiDAR Semantic Segmentation under Corruption via Geometric Inlier Discrimination<br>
+        H. Kim*, <b>H. Jang*</b>, K. Yoon<br>
+        <b>CVPR 2026</b><br>
+        <a href="https://arxiv.org/pdf/2410.15674">[paper]</a> <a href="https://github.com/blue-531/TALoS">[code]</a>
+        
+    </div>
+    <br/>
+
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
     <img src='/images/qual_kitti.png' alt='NeurIPS 2024' class="publication-image">
 
     <!-- Text Content -->
