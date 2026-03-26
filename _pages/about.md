@@ -22,7 +22,7 @@ My CV can be found [here.](https://blue-531.github.io/assets/Hyun_Kurl_Jang_Curr
 Publications
 ======
 <div style="display: flex; align-items: center;">
-    <img src='/images/geoID_concept' alt='CVPR 2026' class="publication-image">
+    <img src='/images/geoID_concept.png' alt='CVPR 2026' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
