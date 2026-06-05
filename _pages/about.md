@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Ph.D. student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST). 
+I am a 4th year Ph.D. student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST). 
 <br/>
 
 My research centers on **3D scene understanding for autonomous driving and robotics**, with a focus on building models that generalize and remain robust across diverse domains. I am also particularly interested in leveraging multiple sensing modalities, including LiDAR, cameras, and event cameras.
