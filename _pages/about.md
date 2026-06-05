@@ -10,7 +10,7 @@ redirect_from:
 I am a 3rd year Ph.D. student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST). 
 <br/>
 
-I am currently pursuing research focused on advancing 3D perception for autonomous driving, with an emphasis on developing models that are generalizable and robust across various domains. I am also particularly interested in utilizing diverse data modalities such as LiDAR, cameras, and event cameras.
+My research centers on **3D scene understanding for autonomous driving and robotics**, with a focus on building models that generalize and remain robust across diverse domains. I am also particularly interested in leveraging multiple sensing modalities, including LiDAR, cameras, and event cameras.
 <br/>
 
 My CV can be found [here.](https://blue-531.github.io/assets/Hyun_Kurl_Jang_Curriculum_Vitae_2606.pdf)
