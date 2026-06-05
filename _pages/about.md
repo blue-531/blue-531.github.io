@@ -13,7 +13,7 @@ I am a 3rd year Ph.D. student advised by Prof. [Kuk-Jin Yoon](https://scholar.go
 I am currently pursuing research focused on advancing 3D perception for autonomous driving, with an emphasis on developing models that are generalizable and robust across various domains. I am also particularly interested in utilizing diverse data modalities such as LiDAR, cameras, and event cameras.
 <br/>
 
-My CV can be found [here.](https://blue-531.github.io/assets/Hyun_Kurl_Jang_Curriculum_Vitae_2026.pdf)
+My CV can be found [here.](https://blue-531.github.io/assets/Hyun_Kurl_Jang_Curriculum_Vitae_2606.pdf)
 <br/>
 
 
