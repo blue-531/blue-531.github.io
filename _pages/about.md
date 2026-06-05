@@ -18,7 +18,6 @@ My CV can be found [here.](https://blue-531.github.io/assets/Hyun_Kurl_Jang_Curr
 
 
 
-
 Publications
 ======
 <div style="display: flex; align-items: center;">
@@ -73,7 +72,7 @@ Publications
     <div class="publication-info">
         Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields<br>
         T. Kim, Y. Chae, <b>H. Jang</b>, K. Yoon<br>
-        <b>CVPR 2023 (2.5% of submissions)</b><br>
+        <b>CVPR 2023 (Highlight, Top 2.5% of submissions)</b><br>
         <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Event-Based_Video_Frame_Interpolation_With_Cross-Modal_Asymmetric_Bidirectional_Motion_Fields_CVPR_2023_paper.pdf">[paper]</a> <a href="https://github.com/intelpro/CBMNet">[code]</a>
     </div>
 </div>
@@ -147,13 +146,18 @@ Publications
 
 Selected Honors and Awards
 ======
+- 2025 / Selected as a NeurIPS 2025 Top Reviewer
 - 2023 / Gold prize in Best Paper Awards during IPIU 2023, 35th Workshop on Image Processing and Image Understanding
+<br/>
+
+I have served as a reviewer for top-tier conferences including CVPR, ICCV, ECCV, and NeurIPS.
 <br/>
 
 
 Projects
 ======
+- 2025 ~ / Development for Autonomous Driving in Unstructured Off-Road Environments / Hanwha Aerospace
+- 2025 / Data Augmentation and Sensor Fusion Techniques for Robust Autonomous Driving / 42dot
+- 2024 / 2025 HMG Autonomous Driving Challenge / Advisor
 - 2022 ~ 2024 / AI Research for Intelligent X-ray Luggage Scanning System / X-ray imaging, object detection, weakly supervised object localization
 <br/>
-
-
