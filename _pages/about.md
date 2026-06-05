@@ -29,7 +29,7 @@ Publications
         Test-Time Training for LiDAR Semantic Segmentation under Corruption via Geometric Inlier Discrimination<br>
         H. Kim*, <b>H. Jang*</b>, K. Yoon<br>
         <b>CVPR 2026</b><br>
-        <a href="https://arxiv.org/pdf/2410.15674">[paper]</a> <a href="https://github.com/blue-531/TALoS">[code]</a>
+        <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Test-Time_Training_for_LiDAR_Semantic_Segmentation_under_Corruption_via_Geometric_CVPR_2026_paper.html">[paper]</a> <a href="https://github.com/hskim617/GeoID">[code]</a>
         
     </div>
     <br/>
