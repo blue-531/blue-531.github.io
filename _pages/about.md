@@ -21,7 +21,7 @@ My CV can be found [here.](https://blue-531.github.io/assets/Hyun_Kurl_Jang_Curr
 Publications
 ======
 <div style="display: flex; align-items: center;">
-    <img src='/images/pref_ovss' alt='NeurIPS 2026' class="publication-image">
+    <img src='/images/pref_ovss.jpg' alt='NeurIPS 2026' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
