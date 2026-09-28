@@ -21,6 +21,21 @@ My CV can be found [here.](https://blue-531.github.io/assets/Hyun_Kurl_Jang_Curr
 Publications
 ======
 <div style="display: flex; align-items: center;">
+    <img src='/images/pref_ovss' alt='NeurIPS 2026' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement <br>
+        <b>H. Jang</b>, J. Kim, K. Yoon<br>
+        <b>NeurIPS 2026</b><br>
+        <a href="https://blue-531.github.io/pref-ovss/">[paper]</a> <a href="https://github.com/blue-531/pref-ovss">[code]</a>
+        
+    </div>
+    <br/>
+
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
     <img src='/images/geoID_concept.png' alt='CVPR 2026' class="publication-image">
 
     <!-- Text Content -->
